@@ -1,34 +1,60 @@
 <div align="center">
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="programmer gif" width="600"/>
+
+<img src="https://miro.medium.com/max/1360/0*703yvSlv_t0ioJ-Z.gif" width="600"/>
+
 </div>
 
 <h1 align="center">Hi 👋, I'm Kavya Desai</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">Aspiring Backend Developer | Computer Science & Engineering Student from India</h3>
 
-<hr />
+---
 
-- 👀 I am Currently Studing as a **Computer Science & Engineering Student.**
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning **python.**
+- 🎓 Computer Science & Engineering Student  
+- 💻 Passionate about **Backend Development**
+- 🌱 Currently learning **Spring Boot and Advanced Backend Development**
+- 🗄️ Completed **PostgreSQL Database Learning**
+- ☕ Strong foundation in **Java Programming**
+- 🚀 Building projects to improve my development skills  
+- ⚡ Fun fact: I love playing **Cricket**
 
-- ⚡ Fun fact **I Love to play Cricket**
+---
 
-<hr />
+### 🛠️ Languages and Tools
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=java,postgres,spring,git,github,vscode" />
+
 </p>
 
-<hr />
+---
 
-<h3 align="Center">Languages and Tools:</h3>
-<p align="Center"> 
-  <img src="https://skillicons.dev/icons?i=c,html,css,python" />
+### 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=KavyaDesai18&show_icons=true&theme=tokyonight"/>
+
 </p>
- 
 
+---
 
-<!---
-KavyaDesai18/KavyaDesai18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔗 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/KavyaDesai18">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+⭐ *"Learning every day to become a better backend developer."*
