@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="programmer gif" width="600"/>
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="programmer gif" width="400"/>
 </div
 
 <h1 align="center">Hi 👋, I'm Kavya Desai</h1>
