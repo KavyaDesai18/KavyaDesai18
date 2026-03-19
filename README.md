@@ -1,8 +1,6 @@
 <div align="center">
-
-<img src="https://miro.medium.com/max/1360/0*703yvSlv_t0ioJ-Z.gif" width="600"/>
-
-</div>
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="programmer gif" width="600"/>
+</div
 
 <h1 align="center">Hi 👋, I'm Kavya Desai</h1>
 <h3 align="center">Aspiring Backend Developer | Computer Science & Engineering Student from India</h3>
